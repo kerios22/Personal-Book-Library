@@ -20,10 +20,6 @@ https://pan.baidu.com/s/1jyzYzQNT_tD-51cgk4CFYg?pwd=1562
 https://pan.baidu.com/s/1wEP_mbld2EwFWpfcTuyT6g?pwd=1562 
 
 
-
-
-
-
 ## 图形：
 
 ### 渲染：![CG-Rendering](README/CG-Rendering-16697068871483.png)
@@ -39,5 +35,21 @@ https://pan.baidu.com/s/1wEP_mbld2EwFWpfcTuyT6g?pwd=1562
 [GitHub - ElvisQin/thegibook: 《全局光照技术：从离线到实时渲染》](https://github.com/ElvisQin/thegibook)
 
 ## 计算机：
+
+![ComputerScience](README/ComputerScience.png)
+
+### 计算机组成原理：
+
+### 数据结构与算法：
+
+数据结构与算法，是计算机程序中相当重要的部分，至于这一部分的内容，我个人是先读的《大话数据结构》一书，但是本书对于初学者来说，并不是很友好，这里也推荐b站两位大神的数据结构课程。
+
+《大话数据结构》：https://pan.baidu.com/s/1ZwAe1FFlxtSDcgFYNrfnTw?pwd=1562
+
+《数据结构算法：左程云》：https://www.bilibili.com/video/BV13g41157hK/?spm_id_from=333.337.search-card.all.click
+
+《数据结构算法：韩顺平》：[尚硅谷、韩顺平java数据结构与算法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Xo4y1Z7RR/?spm_id_from=333.337.search-card.all.click&vd_source=c0f37e8058f4fdd29336bf2546908230)
+
+#### 读书笔记：
 
 ## 美学：
