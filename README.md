@@ -7,9 +7,9 @@
 
 ## 图形：
 
-### 渲染：
+### 渲染：![CG-Rendering](README/CG-Rendering-16697068871483.png)
 
-![CG-Rendering](README/CG-Rendering-16697066147982.png)渲染是计算机图形学的一个子分类，也是很重要的一部分。这里会记录和更新相关的经典书籍。
+### 渲染是计算机图形学的一个子分类，也是很重要的一部分。这里会记录和更新相关的经典书籍。
 
 #### Global illumination（全局光照）：
 
