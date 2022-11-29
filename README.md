@@ -1,4 +1,12 @@
 # Personal-Book-Library
-这是我个人的读书库，你也能看作这是一个大型的Blog
+这是我个人的读书库，我也会在这里更新读书笔记，涉猎的范围很个人化，包括图形经典书籍，基本计算机组成原理，流体力学，数字信号处理。当然，也会更新一些较为有趣的休闲书籍
 
-![TheTitleImage](README/TheTitleImage.png)
+![TheTitleImage](README/TheTitleImage-16697046937591.png)
+
+## 数学：
+
+## 图形：
+
+## 计算机：
+
+## 美学：
